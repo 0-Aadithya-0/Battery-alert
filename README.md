@@ -1,2 +1,1 @@
-✅LINUX VERSION 
- -> change branch for windows version
+Battery_Alert for healthy battery life 
